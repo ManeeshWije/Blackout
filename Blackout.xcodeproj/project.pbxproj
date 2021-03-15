@@ -36,7 +36,7 @@
 
 /* Begin PBXFileReference section */
 		669BE48425FF121B00359E9D /* BlackoutApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BlackoutApp.swift; sourceTree = "<group>"; };
-		669BE48525FF121B00359E9D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		669BE48525FF121B00359E9D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; usesTabs = 0; };
 		669BE48625FF121C00359E9D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		669BE48B25FF121C00359E9D /* Blackout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Blackout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		669BE48E25FF121C00359E9D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };

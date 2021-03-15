@@ -9,8 +9,13 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        Text("Blackout")
-            .padding()
+        ZStack{
+            Image("background")
+            
+            VStack{
+                
+            }
+        }
     }
 }
 
@@ -19,3 +24,5 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+
