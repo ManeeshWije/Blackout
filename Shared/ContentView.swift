@@ -13,7 +13,17 @@ struct ContentView: View {
             Image("background")
             
             VStack{
+                Spacer()
                 
+                Text("Blackout")
+                    .font(.title)
+                    .foregroundColor(Color.white)
+                    .multilineTextAlignment(.center)
+                    .padding()
+                Spacer()
+                Spacer()
+                Spacer()
+                    
             }
         }
     }
@@ -22,6 +32,7 @@ struct ContentView: View {
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         ContentView()
+            
     }
 }
 
